@@ -98,7 +98,7 @@ float divide(float a, float b) {
 }
 ```
 
-### `main.c` (you complete)
+### `main.c` (already complete)
 
 ```c
 #include <stdio.h>
@@ -166,6 +166,7 @@ CFLAGS = -Wall -Wextra -pedantic
 
 all: my_program
 
+# COMPLETE THIS RULE: Add dependencies and complete the compilation command
 my_program:
 	gcc $(CFLAGS) 
 
