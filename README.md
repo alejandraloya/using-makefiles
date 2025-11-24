@@ -57,17 +57,6 @@ In `arith_utils.c`, implement **four** functions:
 
 ---
 
-### Part B : Use Them in `main.c`
-
-`main.c` should:
-
-1. Ask the user for **two floats**
-2. Call every function from `arith_utils`
-3. Print results clearly
-4. If the second number is 0, print a friendly warning for division
-
----
-
 ## 3. Starter Code
 
 ### `arith_utils.h` (provided — do not change)
